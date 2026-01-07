@@ -1558,7 +1558,8 @@ And then we use `this` to declare that `name` is the `name` of the `Dog` object 
 class Dog {
   constructor(name) {
     this.name = name
-  }}
+  }
+}
 ```
 
 Let's try to use it now:
